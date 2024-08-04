@@ -109,10 +109,10 @@
 # Determine if the user is hungry or has completed their homework
 #puts is_hungry || finished_homework
 
-loves_to_play = true
-loves_dog_park = false
-loves_treats = true
-age = 1
+# loves_to_play = true
+# loves_dog_park = false
+# loves_treats = true
+# age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
